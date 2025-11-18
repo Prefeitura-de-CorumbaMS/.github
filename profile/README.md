@@ -56,7 +56,7 @@ Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informaçã
 | :--- | :--- | :--- |
 | **Gestão do Perfil e Liderança Operacional** | **José Sandonas (`Josandonas`)** | Planejamento, Governança, Front-end, Back-end, Operações e Criação de Projetos |
 | **Desenvolvimento Full Stack** | **Elizael Ramos (`elizaelramos`)** | Front-end e Back-end |
-| **Desenvolvimento Full Stack** | **Guilherme-Emmannuel** | Front-end e Back-end |
+| **Desenvolvimento Full Stack** | **Guilherme-Emmannuel (`Guilherme-Emannuel`)** | Front-end e Back-end |
 | **Desenvolvimento Full Stack** | **M. Brandão (`mabrandao`)** | Front-end e Back-end |
 
 ---
