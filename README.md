@@ -1,22 +1,62 @@
-# Hi 👋, I'm Prefeitura de CorumbáMS
+## 🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS
+# HUB Oficial de Tecnologia e Inovação
 
-### A budding Javascript developer
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prefeitura-de-CorumbaMS&label=Profile views&color=0e75b6&style=flat" alt="Prefeitura-de-CorumbaMS" /> </p>
+### Visão Institucional
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prefeitura-de-CorumbaMS" alt="Prefeitura-de-CorumbaMS" /></a> </p>
+Este repositório é o espaço centralizado de **transparência** e **inovação** da Prefeitura de Corumbá. Representamos o esforço contínuo da administração pública para digitalizar e otimizar os serviços em benefício do município e de seus cidadãos.
 
-<h3 align="left">Connect with me:</h3>
+Nossa direção é **estritamente institucional**, focada na criação e desenvolvimento de novos projetos de utilidade pública e no apoio direto ao município, sem vínculos com qualquer direção partidária.
+
+---
+
+### 🚀 Projetos em Foco (Desenvolvimento e Apoio ao Município)
+
+| Projeto | Descrição | Status | Foco Principal |
+| :--- | :--- | :--- | :--- |
+| **Mapa-Saude-Corumba** | Localização geográfica interativa e horários de funcionamento das unidades de saúde. | Em Desenvolvimento | Acesso Cidadão e Saúde |
+| **Portal-Dados-Abertos** | Repositório central para consulta e download de dados públicos municipais. | Ativo | Transparência e Pesquisa |
+| **[Seu Novo Projeto Aqui]** | [Descrição do Próximo Projeto] | [Planejamento/Análise] | [Benefício para o Município] |
+
+---
+
+### 💻 Stack Tecnológico
+
+Utilizamos uma variedade de linguagens e ferramentas robustas para garantir a segurança, performance e escalabilidade das nossas aplicações:
+
 <p align="left">
-<a href="https://github.com/Prefeitura-de-CorumbaMS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Prefeitura-de-CorumbaMS" height="30" width="40" /></a>
+    <a href="https://skillicons.dev/icons?i=angular,bootstrap,css,django,docker,express,firebase,flask,git,html,js,laravel,linux,mongodb,mysql,nodejs,php,postgres,py,react,redux,sqlite,tailwind,vue" target="_blank">
+        <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,django,docker,dotnet,express,firebase,flask,git,go,html,js,jest,laravel,linux,mariadb,mongodb,mysql,nginx,nodejs,oracle,perl,php,postgres,postman,py,react,redux,ruby,sqlite,symfony,tailwind,vue" alt="Tecnologias utilizadas pela Prefeitura de Corumbá/MS" />
+    </a>
+</p>
+<p align="left">
+    *Esta lista representa o conjunto de tecnologias que suportam todos os nossos projetos.*
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/perl" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=perl" alt="perl" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/symfony" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=symfony" alt="symfony" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prefeitura-de-CorumbaMS&show_icons=true&locale=en&layout=compact" alt="Prefeitura-de-CorumbaMS" /></p>
+### 👥 Equipe de Desenvolvimento
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prefeitura-de-CorumbaMS&show_icons=true&locale=en" alt="Prefeitura-de-CorumbaMS" /></p>
+Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informação** da Prefeitura Municipal de Corumbá.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prefeitura-de-CorumbaMS&" alt="Prefeitura-de-CorumbaMS" /></p>
+| Função | Membro (Nome/Usuário GitHub) | Foco de Atuação |
+| :--- | :--- | :--- |
+| **Gestão e Liderança de TI** | [INSERIR NOME DO LÍDER E LINK] | Estratégia e Governança |
+| **Desenvolvimento Full Stack** | [INSERIR NOME DO DESENVOLVEDOR 1 E LINK] | Desenvolvimento e Integração |
+| **Suporte e Infraestrutura** | [INSERIR NOME DO TÉCNICO E LINK] | Segurança e Manutenção |
 
+---
+
+### 🔗 Contato e Colaboração
+
+Sua contribuição é fundamental para o aprimoramento dos serviços municipais.
+
+* **Website Oficial:** [INSERIR LINK OFICIAL DA PREFEITURA]
+* **Contato de TI:** [INSERIR E-MAIL INSTITUCIONAL PARA CONTATO DE DESENVOLVIMENTO]
+* **Reportar/Sugestões:** Utilize a seção **Issues** do repositório específico do projeto.
+
+---
+<p align="center">
+    **Corumbá: Inovação a serviço do cidadão.**
+</p>
