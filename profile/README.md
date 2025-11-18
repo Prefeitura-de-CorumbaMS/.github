@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="[[LINK PARA O LOGO DA PREFEITURA DE CORUMBÁ]](https://parcerias.corumba.ms.gov.br/brazao_logo.png)" alt="Logo da Prefeitura Municipal de Corumbá/MS" width="150"/>
-</p>
-
-<p align="center">
     <strong>🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS</strong>
 </p>
 <p align="center">
