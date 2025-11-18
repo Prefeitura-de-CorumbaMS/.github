@@ -1,9 +1,8 @@
-<p align="center">
-    <strong>🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS</strong>
-</p>
-<p align="center">
-    <h1>HUB Oficial de Tecnologia e Inovação</h1>
-</p>
+<div align="center">
+# 🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS
+## HUB Oficial de Tecnologia e Inovação
+
+</div>
 ---
 
 ### Visão Institucional e Missão
