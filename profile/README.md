@@ -35,6 +35,7 @@ Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços
 | **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` |
 | **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` |
 | **Synopsis-API** | Projeto de APIs para extração e consolidação de bases de dados locais (BI). | Privado | `PHP` / `Tableau` |
+| **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS| Privado |  Gestão de TI | Núcleo de Gestão Estratégica | `Laravel` / `Node.js` | `MySQL` |
 
 ---
 
