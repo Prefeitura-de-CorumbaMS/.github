@@ -21,8 +21,6 @@ Estes repositórios são abertos à comunidade, reforçando nosso compromisso co
 | :--- | :--- | :--- | :--- |
 | **WhatsApp\_Dispara** | Solução para comunicação em massa com o cidadão e envio de alertas municipais. | Público | Comunicação e Alerta |
 | **Extractor\_harware** | Coleta de dados de hardware dos computadores institucionais para gestão de ativos. | Público | Gestão de TI |
-| **sao\_joao\_web** | Migração e exposição de informações históricas e culturais do tradicional São João de Corumbá. | Público | Cultura e História |
-
 ---
 
 ### 🛠 Sistemas Internos e de Apoio à Gestão (Privados)
@@ -35,6 +33,7 @@ Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços
 | **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` |
 | **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` |
 | **Synopsis-API** | Projeto de APIs para extração e consolidação de bases de dados locais (BI). | Privado | `PHP` / `Tableau` |
+| **sao\_joao\_web** | Migração e exposição de informações históricas e culturais do tradicional São João de Corumbá. | Privado | Cultura e História | `Node.js` | `React.js`| `MySQL`|
 | **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS| Privado |  Gestão de TI | Núcleo de Gestão Estratégica | `Laravel` / `Node.js` | `MySQL` |
 
 ---
