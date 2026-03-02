@@ -29,7 +29,12 @@ Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços
 
 | Projeto | Descrição | Status | Tecnologias Chave |
 | :--- | :--- | :--- | :--- |
+| **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde, horário de vacina, médicos que atendem e quais especialidades há em cada. | Privado | `Note.js` / `React` / `MYSQL`|
+| **Mapa Assitência Social** | Mapa interativo para localização e horários de funcionamento das unidades de assistência social, programas sociais e serviços oferecidos em cada unidade. | Privado | `Note.js` / `React` / `MYSQL` |
+| **Mapa REME** | Mapa interativo para localização e horários de funcionamento das das escolas, apresentando informações sobre diretores e equipe pedagógica, turno e modalidade de ensino ofertada em cada unidade. | Privado | `Note.js` / `React` / `MYSQL` |
 | **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde. | Privado | `JavaScript` / `Mapbox` |
+| **Mapa do Turismo** | Mapa interativo para localização dos mais diversos pontos famosos da cidade, agências de turismo, lugares para se alimentar, basicamente um mapa que o google jamais teria de tão completo.  | Privado | `Note.js` / `React` / `MYSQL` |
+| **Site da Prefeitura** | Site da prefeitura de Corumbá, onde transitam as nóticias, anúncios públicos e sempre uma ponte direta com os cidadãos da cidade. | Privado | `PHP` / `MYSQL` |
 | **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` |
 | **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` |
 | **Synopsis-API** | Projeto de APIs para extração e consolidação de bases de dados locais (BI). | Privado | `PHP` / `Tableau` |
