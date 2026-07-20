@@ -17,29 +17,29 @@ O desenvolvimento é **estritamente institucional**, neutro e focado em soluçõ
 
 Estes repositórios são abertos à comunidade, reforçando nosso compromisso com a transparência e a colaboração.
 
-| Projeto | Descrição | Status | Foco Principal |
-| :--- | :--- | :--- | :--- |
-| **WhatsApp\_Dispara** | Solução para comunicação em massa com o cidadão e envio de alertas municipais. | Público | Comunicação e Alerta |
-| **Extractor\_harware** | Coleta de dados de hardware dos computadores institucionais para gestão de ativos. | Público | Gestão de TI |
+| Projeto | Descrição | Status | Foco Principal | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **backup-guardian** | Solução de backup automatizado para diretórios, arquivos e estruturas de dados em ambientes Linux. | Público | Backups / Shell | [GitHub](https://github.com/usuario/backup-guardian) |
+| **Extractor\_harware** | Coleta de dados de hardware dos computadores institucionais para gestão de ativos. | Público | Gestão de TI | [GitHub](https://github.com/usuario/extractor-hardware) |
 ---
 
 ### 🛠 Sistemas Internos e de Apoio à Gestão (Privados)
 
 Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços públicos, sendo mantidos em repositórios privados durante o ciclo de desenvolvimento.
 
-| Projeto | Descrição | Status | Tecnologias Chave |
-| :--- | :--- | :--- | :--- |
-| **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde, horário de vacina, médicos que atendem e quais especialidades há em cada. | Privado | `Note.js` / `React` / `MYSQL`|
-| **Mapa Assitência Social** | Mapa interativo para localização e horários de funcionamento das unidades de assistência social, programas sociais e serviços oferecidos em cada unidade. | Privado | `Note.js` / `React` / `MYSQL` |
-| **Mapa REME** | Mapa interativo para localização e horários de funcionamento das das escolas, apresentando informações sobre diretores e equipe pedagógica, turno e modalidade de ensino ofertada em cada unidade. | Privado | `Note.js` / `React` / `MYSQL` |
-| **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde. | Privado | `JavaScript` / `Mapbox` |
-| **Mapa do Turismo** | Mapa interativo para localização dos mais diversos pontos famosos da cidade, agências de turismo, lugares para se alimentar, basicamente um mapa que o google jamais teria de tão completo.  | Privado | `Note.js` / `React` / `MYSQL` |
-| **Site da Prefeitura** | Site da prefeitura de Corumbá, onde transitam as nóticias, anúncios públicos e sempre uma ponte direta com os cidadãos da cidade. | Privado | `PHP` / `MYSQL` |
-| **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` |
-| **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` |
-| **Synopsis-API** | Projeto de APIs para extração e consolidação de bases de dados locais (BI). | Privado | `PHP` / `Tableau` |
-| **sao\_joao\_web** | Migração e exposição de informações históricas e culturais do tradicional São João de Corumbá. | Privado | `Node.js` / `React.js`/ `MySQL`|
-| **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS| Privado |  Gestão de TI | Núcleo de Gestão Estratégica | `Laravel` / `Node.js` | `MySQL` |
+| Projeto | Descrição | Status | Tecnologias Chave | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde, horário de vacina, médicos que atendem e quais especialidades há em cada e Portal de dados da Vigilância de Saúde. | Privado | `Node.js` / `React` / `MySQL` | [Acessar](https://mapasaude.corumba.ms.gov.br/) |
+| **Mapa Assitência Social** | Mapa interativo para localização e horários de funcionamento das unidades de assistência social, programas sociais e serviços oferecidos em cada unidade. | Privado | `Node.js` / `React` / `MySQL` | [Acessar](https://mapasocial.corumba.ms.gov.br/) |
+| **Mapa REME** | Mapa interativo para localização e horários de funcionamento das das escolas, apresentando informações sobre diretores e equipe pedagógica, turno e modalidade de ensino ofertada em cada unidade e futuramente o portal de transparência | Privado | `Node.js` / `React` / `MySQL` | [Acessar](https://mapareme.corumba.ms.gov.br/) |
+| **Mapa do Turismo** | Mapa interativo para localização dos mais diversos pontos famosos da cidade, agências de turismo, lugares para se alimentar, basicamente um mapa que o google jamais teria de tão completo. | Privado | `Node.js` / `React` / `MySQL` | [Acessar](https://mapatur.corumba.ms.gov.br/) |
+| **Mapa do Carnaval** | Mapa interativo para localização dos blocos de Corumbá, reunindo registros de fotos e infomrações das atações em um único local. | Privado | `Node.js` / `React` / `MySQL` | [Acessar](https://samba.projetoestrategico.app/) |
+| **Site da Prefeitura** | Site da prefeitura de Corumbá, onde transitam as nóticias, anúncios públicos e sempre uma ponte direta com os cidadãos da cidade. | Privado | `PHP` / `MySQL` | [Acessar](https://www.corumba.ms.gov.br) |
+| **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` | [Acessar](https://parcerias.corumba.ms.gov.br/) |
+| **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` | [Acessar](https://enquete.corumba.ms.gov.br/telaobrasilcb) |
+| **Synapsis-API** | Projeto dedicado na extração e consolidação de diversas bases de dados em um único lugar | Privado | `PHP` / `Shell` | [Interno]() |
+| **sao\_joao\_web** | Plataforma do arcabouço de exposição de informações históricas e culturais do tradicional São João de Corumbá. | Privado | `Node.js` / `React.js` / `MySQL` | [Acessar](https://saojoao.corumba.ms.gov.br/pt) |
+| **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS | Privado | `Laravel` / `Node.js` / `MySQL` | [Interno]() |
 
 ---
 
