@@ -37,9 +37,9 @@ Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços
 | **Site da Prefeitura** | Site da prefeitura de Corumbá, onde transitam as nóticias, anúncios públicos e sempre uma ponte direta com os cidadãos da cidade. | Privado | `PHP` / `MySQL` | [Acessar](https://www.corumba.ms.gov.br) |
 | **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` | [Acessar](https://parcerias.corumba.ms.gov.br/) |
 | **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` | [Acessar](https://enquete.corumba.ms.gov.br/telaobrasilcb) |
-| **Synapsis-API** | Projeto dedicado na extração e consolidação de diversas bases de dados em um único lugar | Privado | `PHP` / `Shell` | [Interno]() |
+| **Synapsis-API** | Projeto dedicado na extração e consolidação de diversas bases de dados em um único lugar | Privado | `PHP` / `Shell` | Interno |
 | **sao\_joao\_web** | Plataforma do arcabouço de exposição de informações históricas e culturais do tradicional São João de Corumbá. | Privado | `Node.js` / `React.js` / `MySQL` | [Acessar](https://saojoao.corumba.ms.gov.br/pt) |
-| **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS | Privado | `Laravel` / `Node.js` / `MySQL` | [Interno]() |
+| **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS | Privado | `Laravel` / `Node.js` / `MySQL` | Interno |
 
 ---
 
