@@ -40,6 +40,7 @@ Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços
 | **Synapsis-API** | Projeto dedicado na extração e consolidação de diversas bases de dados em um único lugar | Privado | `PHP` / `Shell` | Interno |
 | **sao\_joao\_web** | Plataforma do arcabouço de exposição de informações históricas e culturais do tradicional São João de Corumbá. | Privado | `Node.js` / `React.js` / `MySQL` | [Acessar](https://saojoao.corumba.ms.gov.br/pt) |
 | **CONVEX** | Plataforma de Consolidação e Consulta de dados internos com foco na gestão de E-mail, Cargos e disponibilização de uma API externa ao sistema DOCVIRTUS | Privado | `Laravel` / `Node.js` / `MySQL` | Interno |
+| **Sistema de Processos Públicos** | Sistema que tem como vies deixar público os processos do MP e do TCE e que a população possa acompanhar tais tramites | Privado | `Laravel` / `React` / `MySQL` | [Acessar](https://processos.corumba.ms.gov.br/) |
 
 ---
 
